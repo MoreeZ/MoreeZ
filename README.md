@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**MoreeZ/MoreeZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a software developer from Ireland.
 
-Here are some ideas to get you started:
+### 🔭 I’m currently working on:
+- [Lón don Leon](https://abair.ie/applications): A React Native app teaching kids Irish phonology in conjunction with [Abair](https://www.tcd.ie/research/start/abair.php) / [@phonlab-tcd](https://github.com/phonlab-tcd)
+- [Luna Technology Society](https://lunatech.pl): Developing software for a society interested in space science and education.
+### 🌱 I’m currently learning: 
+- Supabase, Vite, Sentry
+### 📫 How to reach me:
+- moreez@pm.me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MoreeZ&show_icons=true&theme=dark&count_private=true)
