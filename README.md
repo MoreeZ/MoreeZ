@@ -89,7 +89,7 @@
    </tr>
    <tr>
       <td>Other</td>
-      <td>C • ARM Assembly • VHDL • R • Excel • Arduino • Processing.org</td>
+      <td>C • ARM Assembly • VHDL • R • Excel • Arduino • Java • Processing.org</td>
    </tr>
 </table>
 
