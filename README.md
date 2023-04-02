@@ -65,7 +65,7 @@
 <table border="0">
    <tr>
       <th>Area</th>
-      <th>Specifics</th>
+      <th>Technologies</th>
    </tr>
    <tr>
       <td>React</td>
