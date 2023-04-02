@@ -1,6 +1,3 @@
-<h1 align="center">Oskar Mróz</h1>
-<h2 align="center">Software Developer from Ireland</h2>
-
 <h2>CURRENTLY WORKING ON</h2>
 
 <table border="0">
