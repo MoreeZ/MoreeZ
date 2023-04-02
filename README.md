@@ -16,8 +16,8 @@
       <td width="130"><img src="ldl_logo.png" width="140" /></td>
       <td>
          <h3>Lón don Leon</h3>
-         <p> Currently working for Abair, a research laboratory in Trinity College, Dublin. I am developing a React Native app teaching aspects of Irish phonology to pre-literate children.</p>
-         <p>Website: <a href="https://abair.ie">Abair.ie</a></p>
+         <p> Currently working for Abair, a research laboratory in Trinity College, Dublin. I am developing a <b>React Native</b> app teaching aspects of Irish phonology to pre-literate children.</p>
+         <p>Abair website: <a href="https://abair.ie">Abair.ie</a></p>
          <br/>
       </td>
    </tr>
@@ -27,7 +27,7 @@
       <td width="130"><img src="luna_logo.png" width="140" /></td>
       <td>
          <h3>LunaTech.pl</h3>
-         <p> I’m a part of a society is Poland that builds model rocket ships. My roles include design and software development. I am currently maintaining the official website.</p>
+         <p> I’m a part of a society is Poland that builds model rocket ships. My roles include design and software development. I am currently maintaining the <a href="https://lunatech.pl">official website</a>.</p>
          <p>Website: <a href="https://lunatech.pl">LunaTech.pl</a></p>
          <br/>
       </td>
