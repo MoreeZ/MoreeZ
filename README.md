@@ -64,15 +64,37 @@
 </ul>
 
 <h2>MY STACK</h2>
-
-<ul>
+   
 <table border="0">
    <tr>
-      <td>Area</td>
-      <td>Specifics</td>
+      <th>Area</th>
+      <th>Specifics</th>
+   </tr>
+   <tr>
+      <td>React</td>
+      <td>Vite • Gatsby • Webpack • React Native</td>
+   </tr>
+   <tr>
+      <td>Other Front-end</td>
+      <td>jQuery • Angular</td>
+   </tr>
+   <tr>
+      <td>Styling</td>
+      <td>HTML/CSS (deep knowledge) • SCSS • styled-components • Tailwind • Material UI • Bootstrap</td>
+   </tr>
+   <tr>
+      <td>Databases & Hosting</td>
+      <td>Supabase • MySQL • PostgreSQL • Firebase • MongoDB • Firebase</td>
+   </tr>
+   <tr>
+      <td>Backend</td>
+      <td>Express, Fastify (JS) • Flask (Python)</td>
+   </tr>
+   <tr>
+      <td>Other</td>
+      <td>C • ARM Assembly • VHDL • R • Excel • Arduino • Processing.org</td>
    </tr>
 </table>
-</ul>
 
 <h2>PAST YEAR ACTIVITY</h2>
 
