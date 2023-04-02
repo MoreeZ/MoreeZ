@@ -16,7 +16,7 @@
       <td width="130"><img src="ldl_logo.png" width="140" /></td>
       <td>
          <h3>Lón don Leon</h3>
-         <p> Currently employed by Abair, a research laboratory in Trinity College, Dublin. I am developing a React Native app teaching aspects of Irish phonology to pre-literate children.</p>
+         <p> Currently working for Abair, a research laboratory in Trinity College, Dublin. I am developing a React Native app teaching aspects of Irish phonology to pre-literate children.</p>
          <p>Website: <a href="https://abair.ie">Abair.ie</a></p>
          <br/>
       </td>
