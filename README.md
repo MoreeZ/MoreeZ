@@ -47,7 +47,7 @@
 <ul>
    <li>Email: <a href="mailto:oskar@clove.ie">oskar@clove.ie</a></li>
    <li>Website: <a href="https://oskarmroz.com">oskarmroz.com</a></li>
-   <li>LinkedIn: <a href="https://linkedin.com/in/o-mroz/">linkedin.com/in/o-mroz/</a></li>
+   <li>LinkedIn: <a href="https://linkedin.com/in/o-mroz/">in/o-mroz/</a></li>
 </ul>
 
 <h2>RECENT INTERESTS</h2>
