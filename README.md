@@ -1,3 +1,7 @@
+<h2>ABOUT ME</h2>
+
+I'm a Software Developer from Ireland. I've been tinkering with code since I was 16. I'm a natural problem-solver, so programming was like love at first sight for me. I consider it not only a practical tool but also a form of art. One thing that really grinds my gears is when people underestimate the importance of good UI. It's the face of your software and what ultimately sells it to the end user. Aside from programming, I also have an interest in photography and blogging. If you're curious, feel free to check out my latest work on my website www.oskarmroz.com
+
 <h2>CURRENTLY WORKING ON</h2>
 
 <table border="0">
