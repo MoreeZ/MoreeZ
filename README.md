@@ -77,7 +77,7 @@ I'm a Software Developer from Ireland. I've been tinkering with code since I was
    </tr>
    <tr>
       <td>Other Front-end</td>
-      <td>jQuery • Angular</td>
+      <td>jQuery • Angular • Astro</td>
    </tr>
    <tr>
       <td>Styling</td>
@@ -89,7 +89,7 @@ I'm a Software Developer from Ireland. I've been tinkering with code since I was
    </tr>
    <tr>
       <td>Backend</td>
-      <td>Express, Fastify (JS) • Flask (Python)</td>
+      <td>Express • Fastify • Flask</td>
    </tr>
    <tr>
       <td>Other</td>
