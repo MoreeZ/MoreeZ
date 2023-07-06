@@ -19,7 +19,7 @@ I'm a Software Developer from Ireland. I've been tinkering with code since I was
    <tr>
       <td width="130"><img src="ldl_logo.png" width="140" /></td>
       <td>
-         <h3>Lón don Leon</h3>
+         <h3>Mol an Óige</h3>
          <p> Currently working for Abair, a research laboratory in Trinity College, Dublin. I am developing a <b>React Native</b> app teaching aspects of Irish phonology to pre-literate children.</p>
          <p>Abair website: <a href="https://abair.ie">Abair.ie</a></p>
          <br/>
