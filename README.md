@@ -9,7 +9,7 @@ I'm a software developer from Ireland with a passion for coding that began at 16
       <td width="130"><img src="ldl_logo.png" width="140" /></td>
       <td>
          <h3>Meall an Óige</h3>
-         <p>Currently working for Abair, a research laboratory in Trinity College, Dublin. I am developing a <b>React Native</b> app teaching aspects of Irish phonology to pre-literate children.</p>
+         <p>Currently working for ABAIR, a research laboratory in Trinity College, Dublin. I am developing a <b>React Native</b> app teaching aspects of Irish phonology to children.</p>
          <p>Abair website: <a href="https://abair.ie">Abair.ie</a></p>
          <br/>
       </td>
