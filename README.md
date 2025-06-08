@@ -1,39 +1,10 @@
 <h2>ABOUT ME</h2>
 
-I'm a software developer from Ireland with a passion for coding that began at 16. I see programming as both a practical tool and an art form, and I believe that good UI is essential—it’s the first impression of any software. In addition to coding, I enjoy photography and blogging. For more about my work, please visit my website: www.oskarmroz.com.
+I'm a passionate software engineer with a strong foundation in both creative design and problem-solving. My journey began with a love for art, which evolved into interests like photography, and web design. At 16, I taught myself to code using YouTube and freeCodeCamp, building everything from Discord bots to full-scale e-commerce sites with React.js and CSS.
 
-<h2>CURRENTLY WORKING ON</h2>
+In college, I consistently earned top grades in programming modules and worked part-time as a programming tutor for two years. I worked for Trinity to develop a language-learning app that became the focus of my Master's dissertation and was pilot tested in Irish primary schools with great results. I now lead its ongoing development part-time, managing a team of engineers.
 
-<table border="0">
-   <tr>
-      <td width="130"><img src="ldl_logo.png" width="140" /></td>
-      <td>
-         <h3>Meall an Óige</h3>
-         <p>Currently working for ABAIR, a research laboratory in Trinity College, Dublin. I am developing a <b>React Native</b> app teaching aspects of Irish phonology to children.</p>
-         <p>Abair website: <a href="https://abair.ie">Abair.ie</a></p>
-         <br/>
-      </td>
-   </tr>
-</table>
-<table border="0">
-   <tr>
-      <td width="130"><img src="luna_logo.png" width="140" /></td>
-      <td>
-         <h3>LunaTech.pl</h3>
-         <p> I’m a part of a society is Poland that builds model rocket ships. My roles include design and software development. I am currently maintaining the <a href="https://lunatech.pl">official website</a>.</p>
-         <p>Website: <a href="https://lunatech.pl">LunaTech.pl</a></p>
-         <br/>
-      </td>
-   </tr>
-</table>
-
-<h2>CURRENTLY LEARNING</h2>
-
-<ul>
-   <li>Material UI</li>
-   <li>Sentry</li>
-   <li>Tailwind</li>
-</ul>
+I've interned at Bloomberg and Amazon, gaining experience in large-scale development, sustainable engineering, and cross-functional collaboration. These roles deepened my understanding of enterprise software practices and improved my ability to communicate technical ideas across diverse teams.
 
 <h2>SOCIALS / CONTACT</h2>
 
