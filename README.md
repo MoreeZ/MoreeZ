@@ -17,9 +17,9 @@ I've interned at Bloomberg and Amazon, gaining experience in large-scale develop
 <h2>RECENT INTERESTS</h2>
 
 <ul>
+   <li>System Administration</li>
    <li>Artificial Intelligence</li>
-   <li>Software Architecture</li>
-   <li>Web Development</li>
+   <li>Freelancing</li>
 </ul>
 
 <h2>MY STACK</h2>
@@ -31,11 +31,11 @@ I've interned at Bloomberg and Amazon, gaining experience in large-scale develop
    </tr>
    <tr>
       <td>React</td>
-      <td>Vite • Gatsby • Webpack • React Native</td>
+      <td>Next.js • Vite • React Native • Gatsby • Webpack</td>
    </tr>
    <tr>
       <td>Other Front-end</td>
-      <td>jQuery • Angular • Astro</td>
+      <td>jQuery • Angular • Astro • Docusaurus</td>
    </tr>
    <tr>
       <td>Backend</td>
@@ -51,7 +51,7 @@ I've interned at Bloomberg and Amazon, gaining experience in large-scale develop
    </tr>
    <tr>
       <td>Other</td>
-      <td>C • ARM Assembly • VHDL • R • Excel • Arduino • Java • Processing.org</td>
+      <td>C • ARM Assembly • VHDL • R • Excel • Arduino • Java • Processing.org • Haskell</td>
    </tr>
 </table>
 
